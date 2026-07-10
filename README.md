@@ -16,4 +16,4 @@ A responsive landing page built with HTML5 and CSS3.
 
 ## 🚀 Live Demo
 
-Coming soon...
+https://mmdhosseinfazli.github.io/glassy-first-page/
